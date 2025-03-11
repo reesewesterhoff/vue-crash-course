@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "e1b4",
-      "title": "Teegan Hughes",
-      "type": "Remote",
-      "location": "Perspiciatis nesciu",
-      "description": "Consequatur Sit ra",
-      "salary": "$125K - $150K",
-      "company": {
-        "name": "Mendoza Potts Traders",
-        "description": "Ut sint dolorem enim",
-        "contactEmail": "zagywecuq@mailinator.com",
-        "contactPhone": "+1 (568) 876-2472"
-      }
     }
   ]
 }
